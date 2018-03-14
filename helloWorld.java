@@ -7,6 +7,7 @@ public class helloWorld {
         System.out.println("Hello, World");
 	//prints hello from the other side
 	System.out.println("Hello from the other side");
+	System.out.println("Hello Dogs and bitches out there!");
     }
 
 }
