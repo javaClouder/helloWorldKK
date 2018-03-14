@@ -6,7 +6,7 @@ public class helloWorld {
         // Prints "Hello, World" to the terminal window.
         System.out.println("Hello, World");
 	//prints hello from the other side
-	System.out.println("Hello from the other side);
+	System.out.println("Hello from the other side");
     }
 
 }
