@@ -8,7 +8,7 @@ public class helloWorld {
 	//prints hello from the other side
 	System.out.println("Hello from the other side");
 	System.out.println("Hello Dogs and bitches out there!");
-	System.out.println("Adding a new print statement to test Jenkins triggers");
+	System.out.println("The print statement to test Jenkins triggers");
     }
 
 }
