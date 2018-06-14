@@ -10,7 +10,7 @@ public class helloWorld {
 	System.out.println("Hello Dogs and bitches out there!");
 	System.out.println("The print statement to test Jenkins triggers");
 	System.out.println("The print statement to test Jenkins triggers again!");
-	System.out.println("Tring junkins Master on EC2");
+	System.out.println("Hello From Jenkins on EC2");
     }
 
 }
